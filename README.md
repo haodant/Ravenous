@@ -6,8 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - The search result shows the name, address, review rating, and review count of resturants that match the search critiria.
 
 ## Screenshot of app
-![searchbar](public/img/ss_searchbar.png)
+![searchbar](public/ss_searchbar.png)
 Search bar
 
-![displaylist](public/img/ss_displaydetail.png)
+![displaylist](public/ss_displaydetail.png)
 Display of search result
