@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and used Yelp API.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and used Yelp API.<br>
 Online Website : https://elegant-bell-17a48e.netlify.com/
 
 ### User Story
@@ -7,10 +7,12 @@ Online Website : https://elegant-bell-17a48e.netlify.com/
 - The search result shows the name, address, review rating, and review count of resturants that match the search critiria.
 
 ## Screenshot of app
+
 ![searchbar](public/ss_searchbar.png)
 Search bar
-
+</br>
 
 
 ![displaylist](public/ss_displaydetail.png)
 Display of search result
+<br>
