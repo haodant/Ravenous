@@ -9,5 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![searchbar](public/ss_searchbar.png)
 Search bar
 
+
+
 ![displaylist](public/ss_displaydetail.png)
 Display of search result
